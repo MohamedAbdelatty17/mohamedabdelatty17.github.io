@@ -20,8 +20,8 @@ the CSS inline. */
     position: absolute;
     width: 100px;
     height: 100px;
-    left: 230px;
-    top: 308px;
+    left: 227px;
+    top: 208px;
 }
 .custom .stick{
     position: absolute;
@@ -36,7 +36,7 @@ the CSS inline. */
     background-position-x: -102px;
 }
 .custom .stick.right{
-    left: calc(100% + 150px);
+    left: calc(100% + 170px);
 }
 
 /* This is to size and position the containing div for the 
