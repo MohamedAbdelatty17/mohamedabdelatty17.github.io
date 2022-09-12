@@ -36,7 +36,7 @@ the CSS inline. */
     background-position-x: -102px;
 }
 .custom .stick.right{
-    left: calc(100% + 167px);
+    left: calc(100% + 170px);
 }
 
 /* This is to size and position the containing div for the 
