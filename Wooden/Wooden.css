@@ -154,9 +154,9 @@ start and select buttons. */
 /* The bumpers follow the same methodology as the triggers in terms of
 placement */
 .custom .bumper{
-    width: 81px;
-    height: 32px;
-    background: url(https://i.imgur.com/sp3Fkgz.png);
+    width: 107px;
+    height: 37px;
+    background: url(https://i.imgur.com/BhqDmJq.png);
     opacity: 0;
 }
 .custom .bumpers{
