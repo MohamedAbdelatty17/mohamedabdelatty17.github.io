@@ -161,9 +161,9 @@ placement */
 }
 .custom .bumpers{
     position: absolute;
-    width: 601px;
+    width: 620px;
     height: 28px;
-    left: 108px;
+    left: 100px;
     top: 78px;
 }
 .custom .bumper.pressed{
