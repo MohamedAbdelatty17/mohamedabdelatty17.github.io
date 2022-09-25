@@ -148,8 +148,8 @@ background-position: 0 -70px;
 .ds4 .abxy {
     position: absolute;
     width: 170px;
-    height: 171px;
-    top: 159px;
+    height: 181px;
+    top: 149px;
     left: 567px;
 }
 
@@ -190,8 +190,8 @@ background-position: 0 -70px;
 .ds4 .sticks {
     position: absolute;
     width: 361px;
-    height: 105px;
-    top: 308px;
+    height: 95px;
+    top: 298px;
     left: 228px;
 }
 
@@ -223,8 +223,8 @@ background-position: 0 -70px;
 .ds4 .dpad {
     position: absolute;
     width: 125px;
-    height: 126px;
-    top: 181px;
+    height: 116px;
+    top: 171px;
     left: 92px;
 }
 
