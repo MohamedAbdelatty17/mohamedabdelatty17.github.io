@@ -18,9 +18,9 @@ Note that the rotation of the sticks in hard coded with javascript, so it applie
 the CSS inline. */
 .custom .sticks{
     position: absolute;
-    width: 95px;
+    width: 90px;
     height: 126px;
-    left: 227px;
+    left: 229px;
     top: 283px;
 }
 .custom .stick{
@@ -43,10 +43,10 @@ the CSS inline. */
 start and select buttons. */
 .custom .arrows{
     position: absolute;
-    width: 408px;
+    width: 403px;
     height: 0px;
     top: 118px;
-    left: 206px;
+    left: 211px;
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .back, .custom .start{
@@ -73,8 +73,8 @@ start and select buttons. */
     position: absolute;
     width: 140px;
     height: 132px;
-    top: 145px;
-    left: 80px;
+    top: 149px;
+    left: 84px;
 }
 .custom .face{
     background: url(https://i.imgur.com/8u5w9qC.png);
@@ -118,8 +118,8 @@ start and select buttons. */
     position: absolute;
     width: 204px;
     height: 205px;
-    top: 137px;
-    left: 592px;
+    top: 136px;
+    left: 585px;
 }
 /* base class used to simplify the sprite mapping */
 .custom .button{
