@@ -19,14 +19,14 @@ the CSS inline. */
 .custom .sticks{
     position: absolute;
     width: 100px;
-    height: 100px;
+    height: 120px;
     left: 227px;
     top: 298px;
 }
 .custom .stick{
     position: absolute;
     background: url(https://i.imgur.com/Ca8vE7v.png);
-    height: 120px;
+    height: 100px;
     width: 100px;
 }
 .custom .stick.pressed.left{
@@ -43,9 +43,9 @@ the CSS inline. */
 start and select buttons. */
 .custom .arrows{
     position: absolute;
-    width: 418px;
+    width: 408px;
     height: 0px;
-    top: 127px;
+    top: 130px;
     left: 206px;
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
