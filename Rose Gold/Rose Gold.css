@@ -21,7 +21,7 @@ the CSS inline. */
     width: 95px;
     height: 126px;
     left: 227px;
-    top: 288px;
+    top: 283px;
 }
 .custom .stick{
     position: absolute;
@@ -45,7 +45,7 @@ start and select buttons. */
     position: absolute;
     width: 408px;
     height: 0px;
-    top: 120px;
+    top: 118px;
     left: 206px;
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
@@ -73,8 +73,8 @@ start and select buttons. */
     position: absolute;
     width: 140px;
     height: 132px;
-    top: 142px;
-    left: 75px;
+    top: 145px;
+    left: 80px;
 }
 .custom .face{
     background: url(https://i.imgur.com/8u5w9qC.png);
