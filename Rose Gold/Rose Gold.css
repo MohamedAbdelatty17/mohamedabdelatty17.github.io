@@ -45,7 +45,7 @@ start and select buttons. */
     position: absolute;
     width: 400px;
     height: 0px;
-    top: 117px;
+    top: 116px;
     left: 215px;
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
@@ -161,9 +161,9 @@ placement */
 }
 .custom .bumpers{
     position: absolute;
-    width: 622px;
+    width: 618px;
     height: 28px;
-    left: 100px;
+    left: 105px;
     top: 75px;
 }
 .custom .bumper.pressed{
