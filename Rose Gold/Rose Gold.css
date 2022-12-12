@@ -18,8 +18,8 @@ Note that the rotation of the sticks in hard coded with javascript, so it applie
 the CSS inline. */
 .custom .sticks{
     position: absolute;
-    width: 100px;
-    height: 120px;
+    width: 95px;
+    height: 126px;
     left: 227px;
     top: 298px;
 }
@@ -45,7 +45,7 @@ start and select buttons. */
     position: absolute;
     width: 408px;
     height: 0px;
-    top: 130px;
+    top: 136px;
     left: 206px;
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
