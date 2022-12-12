@@ -43,10 +43,10 @@ the CSS inline. */
 start and select buttons. */
 .custom .arrows{
     position: absolute;
-    width: 403px;
+    width: 400px;
     height: 0px;
     top: 118px;
-    left: 211px;
+    left: 213px;
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .back, .custom .start{
@@ -77,7 +77,7 @@ start and select buttons. */
     left: 84px;
 }
 .custom .face{
-    background: url(https://i.imgur.com/8u5w9qC.png);
+    background: url(https://i.imgur.com/O7n4XST.png);
     position: absolute;
 }
 .custom .face.up, .custom .face.down{
