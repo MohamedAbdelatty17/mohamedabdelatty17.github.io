@@ -6,7 +6,7 @@ body {
 }
 /*This class defines the base attributes of the skin*/
 .controller.custom{
-    background: url(https://i.imgur.com/ZcMNSbF.png);
+    background: url(https://i.imgur.com/dzRxsHn.png);
     width: 830px;
     height: 631px;
     margin-left: 0;
@@ -26,7 +26,7 @@ the CSS inline. */
 .custom .stick{
     position: absolute;
     background: url(https://i.imgur.com/Ca8vE7v.png);
-    height: 100px;
+    height: 120px;
     width: 100px;
 }
 .custom .stick.pressed.left{
