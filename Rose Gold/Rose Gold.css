@@ -6,7 +6,7 @@ body {
 }
 /*This class defines the base attributes of the skin*/
 .controller.custom{
-    background: url(https://i.imgur.com/5e2BgUL.png);
+    background: url(https://i.imgur.com/baMZZ0e.png);
     width: 830px;
     height: 631px;
     margin-left: 0;
@@ -25,7 +25,7 @@ the CSS inline. */
 }
 .custom .stick{
     position: absolute;
-    background: url(https://i.imgur.com/Ca8vE7v.png);
+    background: url(https://i.imgur.com/3v9ctBr.png);
     height: 100px;
     width: 100px;
 }
@@ -185,7 +185,7 @@ placement */
     left: 124px;
 }
 .custom .trigger{
-    background: url(https://i.imgur.com/lppVpBy.png);
+    background: url(https://i.imgur.com/ZyNLmnM.png);
     width:84px;
     height:73px;
     opacity: 0;
