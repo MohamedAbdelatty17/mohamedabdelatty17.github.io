@@ -6,13 +6,12 @@ body {
 }
 /*This class defines the base attributes of the skin*/
 .controller.custom{
-    background: url(https://i.imgur.com/baMZZ0e.png);
+    background: url(https://i.imgur.com/5e2BgUL.png);
     width: 830px;
     height: 631px;
     margin-left: 0;
     margin-top: 0;
 }
-
 /* Analog sticks follow the same principles as the triggers in terms of positioning
 Note that the rotation of the sticks in hard coded with javascript, so it applies 
 the CSS inline. */
@@ -25,7 +24,7 @@ the CSS inline. */
 }
 .custom .stick{
     position: absolute;
-    background: url(https://i.imgur.com/3v9ctBr.png);
+    background: url(https://i.imgur.com/Ca8vE7v.png);
     height: 100px;
     width: 100px;
 }
@@ -38,13 +37,13 @@ the CSS inline. */
 .custom .stick.right{
     left: calc(100% + 175px);
 }
-
 /* This is to size and position the containing div for the 
 start and select buttons. */
 .custom .arrows{
     position: absolute;
     width: 400px;
     height: 0px;
+    top: 117px;
     top: 116px;
     left: 215px;
 }
@@ -67,7 +66,6 @@ start and select buttons. */
     width: 24px;
     background-position: 24px 0;
 }
-
 /* Dpad possitioning and sizing */
 .custom .dpad {
     position: absolute;
@@ -112,7 +110,6 @@ start and select buttons. */
     margin-top: -1px;
     background-position-y: 64px;
 }
-
 /* Positioning and size of the container for the face buttons */
 .custom .abxy{
     position: absolute;
@@ -150,7 +147,6 @@ start and select buttons. */
     background-position: 54px 0;
     left: 61px;
 }
-
 /* The bumpers follow the same methodology as the triggers in terms of
 placement */
 .custom .bumper{
@@ -161,8 +157,10 @@ placement */
 }
 .custom .bumpers{
     position: absolute;
+    width: 622px;
     width: 618px;
     height: 28px;
+    left: 100px;
     left: 105px;
     top: 75px;
 }
@@ -177,7 +175,6 @@ placement */
     transform: rotateY(180deg);
     float: right;
 }
-
 .custom .triggers{
     position: absolute;
     width: 590px;
@@ -185,7 +182,7 @@ placement */
     left: 124px;
 }
 .custom .trigger{
-    background: url(https://i.imgur.com/ZyNLmnM.png);
+    background: url(https://i.imgur.com/lppVpBy.png);
     width:84px;
     height:73px;
     opacity: 0;
