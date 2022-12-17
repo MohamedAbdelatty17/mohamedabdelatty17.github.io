@@ -6,7 +6,7 @@ body {
 }
 /*This class defines the base attributes of the skin*/
 .controller.custom{
-    background: url(https://i.imgur.com/4k28PsG.png);
+    background: url(https://i.imgur.com/KN8t5GQ.png);
     width: 830px;
     height: 631px;
     margin-left: 0;
@@ -24,7 +24,7 @@ the CSS inline. */
 }
 .custom .stick{
     position: absolute;
-    background: url(https://i.imgur.com/Ca8vE7v.png);
+    background: url(https://i.imgur.com/2cDY2qA.png);
     height: 100px;
     width: 100px;
 }
@@ -49,7 +49,7 @@ start and select buttons. */
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .back, .custom .start{
-    background: url(https://i.imgur.com/AcZNqrE.png);
+    background: url(https://i.imgur.com/wIKHqN4.png);
     width: 24px;
     height: 40px;
 }
@@ -75,7 +75,7 @@ start and select buttons. */
     left: 84px;
 }
 .custom .face{
-    background: url(https://i.imgur.com/fDPtIX3.png);
+    background: url(https://i.imgur.com/pcn1V5Q.png);
     position: absolute;
 }
 .custom .face.up, .custom .face.down{
@@ -123,7 +123,7 @@ start and select buttons. */
     position: absolute;
     width: 54px;
     height: 54px;
-    background: url(https://i.imgur.com/n1cX4u5.png);
+    background: url(https://i.imgur.com/5epP7kb.png);
 }
 .custom .button.pressed{
     background-position-y: -56px;
