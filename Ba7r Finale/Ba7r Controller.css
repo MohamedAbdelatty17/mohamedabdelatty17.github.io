@@ -12,16 +12,15 @@ body {
     margin-left: 0;
     margin-top: 0;
 }
-
 /* Analog sticks follow the same principles as the triggers in terms of positioning
 Note that the rotation of the sticks in hard coded with javascript, so it applies 
 the CSS inline. */
 .custom .sticks{
     position: absolute;
-    width: 100px;
-    height: 100px;
-    left: 227px;
-    top: 298px;
+    width: 88px;
+    height: 126px;
+    left: 231px;
+    top: 283px;
 }
 .custom .stick{
     position: absolute;
@@ -38,15 +37,15 @@ the CSS inline. */
 .custom .stick.right{
     left: calc(100% + 175px);
 }
-
 /* This is to size and position the containing div for the 
 start and select buttons. */
 .custom .arrows{
     position: absolute;
-    width: 418px;
+    width: 400px;
     height: 0px;
-    top: 127px;
-    left: 206px;
+    top: 117px;
+    top: 116px;
+    left: 215px;
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .back, .custom .start{
@@ -67,17 +66,16 @@ start and select buttons. */
     width: 24px;
     background-position: 24px 0;
 }
-
 /* Dpad possitioning and sizing */
 .custom .dpad {
     position: absolute;
     width: 140px;
     height: 132px;
-    top: 142px;
-    left: 75px;
+    top: 149px;
+    left: 84px;
 }
 .custom .face{
-    background: url(https://i.imgur.com/8u5w9qC.png);
+    background: url(https://i.imgur.com/ipIZ7ba.png);
     position: absolute;
 }
 .custom .face.up, .custom .face.down{
@@ -112,14 +110,13 @@ start and select buttons. */
     margin-top: -1px;
     background-position-y: 64px;
 }
-
 /* Positioning and size of the container for the face buttons */
 .custom .abxy{
     position: absolute;
     width: 204px;
     height: 205px;
-    top: 137px;
-    left: 592px;
+    top: 136px;
+    left: 581px;
 }
 /* base class used to simplify the sprite mapping */
 .custom .button{
@@ -150,7 +147,6 @@ start and select buttons. */
     background-position: 54px 0;
     left: 61px;
 }
-
 /* The bumpers follow the same methodology as the triggers in terms of
 placement */
 .custom .bumper{
@@ -161,10 +157,12 @@ placement */
 }
 .custom .bumpers{
     position: absolute;
-    width: 632px;
+    width: 622px;
+    width: 618px;
     height: 28px;
     left: 100px;
-    top: 78px;
+    left: 105px;
+    top: 75px;
 }
 .custom .bumper.pressed{
     opacity: 1;
@@ -177,12 +175,11 @@ placement */
     transform: rotateY(180deg);
     float: right;
 }
-
 .custom .triggers{
     position: absolute;
-    width: 601px;
+    width: 590px;
     height: 65px;
-    left: 120px;
+    left: 124px;
 }
 .custom .trigger{
     background: url(https://i.imgur.com/zzFsMc1.png);
